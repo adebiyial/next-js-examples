@@ -1,3 +1,3 @@
 ## Instructions
 
-See [https://github.com/wesbos/eslint-config-wesbos](Wes Bos eslint config)
+See [Wes Bos eslint config](https://github.com/wesbos/eslint-config-wesbos)
